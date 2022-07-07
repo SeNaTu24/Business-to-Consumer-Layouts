@@ -1,0 +1,59 @@
+body {
+   background-color: greenyellow;
+}
+
+h1 {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-top: 80px;
+}
+
+#add {
+
+   border: 1;
+   line-height: 2.5;
+   padding: 0 20px;
+   font-size: 1rem;
+   text-align: center;
+   color: #fff;
+   text-shadow: 1px 1px 1px #000;
+   border-radius: 50px;
+   background-color: rgb(39, 127, 195);
+}
+
+#lass {
+   text-decoration: line-through;
+}
+
+#comp {
+   border: 0;
+   line-height: 2.5;
+   padding: 0 20px;
+   font-size: 1rem;
+   text-align: center;
+   color: #fff;
+   border-radius: 20px;
+   background-color: rgb(39, 127, 195);
+}
+
+#emp {
+   border: 0;
+   line-height: 2.5;
+   padding: 0 20px;
+   font-size: 1rem;
+   text-align: center;
+   color: #fff;
+   border-radius: 20px;
+   background-color: brown;
+}
+
+#sav {
+   border: 0;
+   line-height: 2.5;
+   padding: 0 20px;
+   font-size: 1rem;
+   text-align: center;
+   color: #fff;
+   border-radius: 20px;
+   background-color: green;
+
+}
